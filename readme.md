@@ -9,11 +9,6 @@ This is my first Python project. Primarily focused on strings, variables and con
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 
-### Links
-
-- Solution URL: [code](https://github.com/waldekglaz/Base-Apparel-Coming-Soon)
-- Live Site URL: [live](https://waldekglaz.github.io/Base-Apparel-Coming-Soon/)
-
 ### Built with
 
 - Python 3.9
