@@ -1,6 +1,7 @@
 # import pyinputplus for validation
 import pyinputplus as pyip
 
+print(pyip.__version__)
 
 new_game = pyip.inputYesNo("Do you want to start new game? yes or no :")
 
