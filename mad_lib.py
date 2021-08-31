@@ -21,7 +21,7 @@ while start_new_game == True:
     adjective = pyip.inputStr("Please enter first adjective: ")
     noun = pyip.inputStr("Please enter a noun: ")
     adjective_2 = pyip.inputStr("Please enter another adjective: ")
-    relative = pyip.inputMenu("Please enter your relative: ")
+    relative = pyip.inputStr("Please enter your relative: ")
     adjective_3 = pyip.inputStr("Please enter another adjective: ")
     verb = pyip.inputStr("Please enter a verb: ")
     adjective_4 = pyip.inputStr("Please enter another adjective: ")
